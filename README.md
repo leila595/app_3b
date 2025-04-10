@@ -3,7 +3,7 @@
 
 Este projeto tem como finalidade criar um sistema de gerenciamento contabel. Um sistema completo para otimizar a gestão de escritórios contábeis, automatizando processos, organizando clientes e facilitando a conformidade fiscal.
 
-![Logo](logo.png)
+![Logo](Logo.png)
 
 ## Autores
 
