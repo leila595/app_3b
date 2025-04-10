@@ -1,7 +1,9 @@
 
 # Sistema de Gestão de Escritorios Contabeis
 
-Este projeto tem como finalidade criar um sistema de gerenciamento contabel. Um sistema completo para otimizar a gestão de escritórios contábeis, automatizando processos, organizando clientes e facilitando a conformidade fiscal.
+Este ChatGPT Image 10 de abr. de 2025, 10_23_31projeto tem como finalidade criar um sistema de gerenciamento contabel. Um sistema completo para otimizar a gestão de escritórios contábeis, automatizando processos, organizando clientes e facilitando a conformidade fiscal.
+[!logo](logo.png)
+
 ## Autores
 
 - Ester Paiva
